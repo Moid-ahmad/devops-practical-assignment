@@ -1,0 +1,4 @@
+Name: moied ahmad
+Course: DevOps
+Assignment: GitHub Basics
+Purpose: Learning GitHub repository management.
